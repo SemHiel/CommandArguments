@@ -1,0 +1,8 @@
+name: CommandArguments
+version: ${project.version}
+main: me.sequos.commandarguments.CommandArguments
+authors: [ Sequos ]
+description: Command Arguments
+commands:
+  sendWord:
+    description: Sends you to a world
